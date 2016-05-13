@@ -1,0 +1,192 @@
+"iso3","country","idi2015","Region","iefRank2015","ief2015","press2015"
+"AFG","Afghanistan",1.83,NA,NA,NA,37.44
+"AGO","Angola",2.32,"Sub-Saharan Africa",158,47.9,37.84
+"ALB","Albania",4.73,"Europe",63,65.7,28.77
+"AND","Andorra",7.6,NA,NA,NA,19.87
+"ARE","United Arab Emirates",7.32,"Middle East / North Africa",25,72.4,36.73
+"ARG","Argentina",6.4,"South and Central America / Caribbean",169,44.1,26.11
+"ARM","Armenia",5.32,"Europe",52,67.1,28.43
+"ATG","Antigua & Barbuda",5.93,NA,NA,NA,NA
+"AUS","Australia",8.29,"Asia-Pacific",4,81.4,17.03
+"AUT","Austria",7.67,"Europe",30,71.2,10.85
+"AZE","Azerbaijan",5.79,"Asia-Pacific",85,61,58.41
+"BDI","Burundi",NA,"Sub-Saharan Africa",132,53.7,42.93
+"BEL","Belgium",7.88,"Europe",40,68.8,11.98
+"BEN","Benin",2.05,"Sub-Saharan Africa",99,58.8,29.24
+"BFA","Burkina Faso",1.77,"Sub-Saharan Africa",102,58.6,23.79
+"BGD","Bangladesh",2.22,"Asia-Pacific",131,53.9,42.95
+"BGR","Bulgaria",6.52,"Europe",55,66.8,32.91
+"BHR","Bahrain",7.63,"Middle East / North Africa",18,73.4,58.69
+"BHS","Bahamas",NA,"South and Central America / Caribbean",41,68.7,NA
+"BIH","Bosnia and Herzegovina",5.28,"Europe",97,59,27.51
+"BLR","Belarus",7.18,"Europe",153,49.8,47.98
+"BLZ","Belize",3.56,"South and Central America / Caribbean",117,56.8,18.54
+"BOL","Bolivia",4.08,"South and Central America / Caribbean",163,46.8,31.29
+"BRA","Brazil",6.03,"South and Central America / Caribbean",118,56.6,31.93
+"BRB","Barbados",7.57,"South and Central America / Caribbean",46,67.9,NA
+"BRN","Brunei Darussalam",5.53,"Asia-Pacific",39,68.9,36.76
+"BTN","Bhutan",3.35,"Asia-Pacific",115,57.4,32.65
+"BWA","Botswana",3.82,"Sub-Saharan Africa",36,69.8,22.91
+"CAF","Central African Republic",NA,"Sub-Saharan Africa",166,45.9,33.84
+"CAN","Canada",7.76,"North America",6,79.1,10.99
+"CHE","Switzerland",8.56,"Europe",5,80.5,13.85
+"CHL","Chile",6.31,"South and Central America / Caribbean",7,78.5,23
+"CHN","China",5.05,"Asia-Pacific",139,52.7,73.55
+"CIV","C_te d'Ivoire",2.51,"Sub-Saharan Africa",103,58.5,30.45
+"CMR","Cameroon",2.19,"Sub-Saharan Africa",146,51.9,39.63
+"COD","Congo (Dem. Rep.)",1.65,"Sub-Saharan Africa",168,45,44.31
+"COG","Congo (Rep.)",2.27,"Sub-Saharan Africa",170,42.7,33
+"COL","Colombia",5.32,"South and Central America / Caribbean",28,71.7,39.08
+"COM","Comoros",NA,"Sub-Saharan Africa",142,52.1,24.52
+"CPV","Cape Verde",4.62,"Sub-Saharan Africa",60,66.4,20.69
+"CRI","Costa Rica",6.2,"South and Central America / Caribbean",51,67.2,12.26
+"CUB","Cuba",2.79,"South and Central America / Caribbean",177,29.6,70.21
+"CYP","Cyprus",6.37,"Europe",45,67.9,NA
+"CZE","Czech Republic",7.21,"Europe",24,72.5,11.62
+"DEU","Germany",8.22,"Europe",16,73.8,11.47
+"DJI","Djibouti",2.19,"Sub-Saharan Africa",112,57.5,71.04
+"DMA","Dominica",5.12,"South and Central America / Caribbean",61,66.1,NA
+"DNK","Denmark",8.88,"Europe",11,76.3,8.24
+"DOM","Dominican Rep.",4.26,"South and Central America / Caribbean",86,61,27.31
+"DZA","Algeria",3.71,"Middle East / North Africa",157,48.9,36.63
+"ECU","Ecuador",4.81,"South and Central America / Caribbean",156,49.2,33.65
+"EGY","Egypt",4.4,"Middle East / North Africa",124,55.2,50.17
+"ERI","Eritrea",1.22,"Sub-Saharan Africa",174,38.9,84.86
+"ESP","Spain",7.66,"Europe",49,67.6,19.95
+"EST","Estonia",8.05,"Europe",8,76.8,11.19
+"ETH","Ethiopia",1.45,"Sub-Saharan Africa",149,51.5,41.83
+"FIN","Finland",8.36,"Europe",19,73.4,7.52
+"FJI","Fiji",4.33,"Asia-Pacific",98,59,31.28
+"FRA","France",8.12,"Europe",73,62.5,21.15
+"FSM","Micronesia",NA,"Asia-Pacific",154,49.6,NA
+"GAB","Gabon",2.68,"Sub-Saharan Africa",104,58.3,31.38
+"GBR","United Kingdom",8.75,"Europe",13,75.8,20
+"GEO","Georgia",5.25,"Europe",22,73,27.7
+"GHA","Ghana",3.9,"Sub-Saharan Africa",71,63,15.5
+"GIN","Guinea",NA,"Sub-Saharan Africa",144,52.1,32.56
+"GMB","Gambia",2.6,"Sub-Saharan Africa",113,57.5,44.5
+"GNB","Guinea-Bissau",1.61,"Sub-Saharan Africa",145,52,28.7
+"GNQ","Equatorial Guinea",2.21,"Sub-Saharan Africa",173,40.4,66.23
+"GRC","Greece",7.09,"Europe",130,54,31.01
+"GRD","Grenada",5.05,NA,NA,NA,NA
+"GTM","Guatemala",3.26,"South and Central America / Caribbean",87,60.4,37.92
+"GUY","Guyana",3.65,"South and Central America / Caribbean",123,55.5,27.21
+"HKG","Hong Kong, China",8.52,"Asia-Pacific",1,89.6,27.76
+"HND","Honduras",3.33,"South and Central America / Caribbean",116,57.4,39.27
+"HRV","Croatia",7,"Europe",81,61.5,26.12
+"HTI","Haiti",NA,"South and Central America / Caribbean",151,51.3,25.08
+"HUN","Hungary",6.82,"Europe",54,66.8,27.44
+"IDN","Indonesia",3.94,"Asia-Pacific",105,58.1,40.75
+"IND","India",2.69,"Asia-Pacific",128,54.6,40.49
+"IRL","Ireland",7.82,"Europe",9,76.6,11.2
+"IRN","Iran (I.R.)",4.79,"Middle East / North Africa",171,41.8,72.32
+"IRQ","Iraq",NA,NA,NA,NA,47.76
+"ISL","Iceland",8.86,"Europe",26,72,13.87
+"ISR","Israel",7.19,"Middle East / North Africa",33,70.5,32.09
+"ITA","Italy",7.12,"Europe",80,61.7,27.94
+"JAM","Jamaica",4.23,"South and Central America / Caribbean",48,67.7,11.18
+"JOR","Jordan",4.75,"Middle East / North Africa",38,69.3,42.07
+"JPN","Japan",8.47,"Asia-Pacific",20,73.3,26.95
+"KAZ","Kazakhstan",6.2,"Asia-Pacific",69,63.3,53.46
+"KEN","Kenya",3.02,"Sub-Saharan Africa",122,55.6,32.07
+"KGZ","Kyrgyzstan",4.62,"Asia-Pacific",82,61.3,30.69
+"KHM","Cambodia",2.74,"Asia-Pacific",110,57.5,40.99
+"KIR","Kiribati",NA,"Asia-Pacific",164,46.4,NA
+"KNA","St. Kitts and Nevis",5.92,NA,NA,NA,NA
+"KOR","Korea (Rep.)",8.93,"Asia-Pacific",29,71.5,26.55
+"KWT","Kuwait",6.83,"Middle East / North Africa",74,62.5,30.84
+"LAO","Lao P.D.R.",2.45,"Asia-Pacific",150,51.4,71.25
+"LBN","Lebanon",6.29,"Middle East / North Africa",94,59.3,31.81
+"LBR","Liberia",1.86,"Sub-Saharan Africa",141,52.7,30.78
+"LBY","Libya",NA,NA,NA,NA,45.99
+"LCA","St. Lucia",4.98,"South and Central America / Caribbean",35,70.2,NA
+"LIE","Liechtenstein",NA,NA,NA,NA,17.67
+"LKA","Sri Lanka",3.64,"Asia-Pacific",101,58.6,60.28
+"LSO","Lesotho",2.81,"Sub-Saharan Africa",155,49.6,28.36
+"LTU","Lithuania",7.08,"Europe",15,74.7,18.8
+"LUX","Luxembourg",8.59,"Europe",21,73.2,13.61
+"LVA","Latvia",7.16,"Europe",37,69.7,18.12
+"MAC","Macau",NA,"Asia-Pacific",34,70.3,NA
+"MAR","Morocco",4.47,"Middle East / North Africa",89,60.1,39.19
+"MCO","Monaco",8.1,NA,NA,NA,NA
+"MDA","Moldova",5.81,"Europe",111,57.5,27.85
+"MDG","Madagascar",1.51,"Sub-Saharan Africa",79,61.7,27.43
+"MDV","Maldives",5.08,"Asia-Pacific",134,53.4,34.32
+"MEX","Mexico",4.68,"North America",59,66.4,43.69
+"MKD","TFYR Macedonia",6.07,"Europe",53,67.1,36.26
+"MLI","Mali",2.22,"Sub-Saharan Africa",119,56.4,36.33
+"MLT","Malta",7.52,"Europe",58,66.5,24.16
+"MMR","Myanmar",2.27,"Asia-Pacific",161,46.9,42.08
+"MNE","Montenegro",5.9,"Europe",66,64.7,34.63
+"MNG","Mongolia",5,"Asia-Pacific",96,59.2,25.25
+"MOZ","Mozambique",1.82,"Sub-Saharan Africa",125,54.8,29.98
+"MRT","Mauritania",2.07,"Sub-Saharan Africa",135,53.3,25.27
+"MUS","Mauritius",5.41,"Sub-Saharan Africa",10,76.4,27.69
+"MWI","Malawi",1.61,"Sub-Saharan Africa",126,54.8,26.41
+"MYS","Malaysia",5.9,"Asia-Pacific",31,70.8,43.29
+"NAM","Namibia",3.41,"Sub-Saharan Africa",93,59.6,12.5
+"NER","Niger",NA,"Sub-Saharan Africa",127,54.6,23.85
+"NGA","Nigeria",2.61,"Sub-Saharan Africa",120,55.6,34.09
+"NIC","Nicaragua",3.04,"South and Central America / Caribbean",108,57.6,27.94
+"NLD","Netherlands",8.53,"Europe",17,73.7,9.22
+"NOR","Norway",8.49,"Europe",27,71.8,7.75
+"NPL","Nepal",2.59,"Asia-Pacific",152,51.3,32.71
+"NZL","New Zealand",8.14,"Asia-Pacific",3,82.1,10.06
+"OMN","Oman",6.33,"Middle East / North Africa",56,66.7,38.83
+"PAK","Pakistan",2.24,"Asia-Pacific",121,55.6,50.46
+"PAN","Panama",4.87,"South and Central America / Caribbean",68,64.1,28.98
+"PER","Peru",4.26,"South and Central America / Caribbean",47,67.7,31.21
+"PHL","Philippines",4.57,"Asia-Pacific",76,62.2,41.19
+"PNG","Papua New Guinea",NA,"Asia-Pacific",137,53.1,25.87
+"POL","Poland",6.91,"Europe",42,68.6,12.71
+"PRK","Korea, North ",NA,"Asia-Pacific",178,1.3,83.25
+"PRT","Portugal",6.93,"Europe",64,65.3,17.11
+"PRY","Paraguay",3.79,"South and Central America / Caribbean",83,61.1,33.74
+"PSE","Palestine",NA,NA,NA,NA,41.01
+"QAT","Qatar",7.44,"Middle East / North Africa",32,70.8,35.35
+"ROU","Romania",6.11,"Europe",57,66.6,24.9
+"RUS","Russian Federation",6.91,"Europe",143,52.1,44.97
+"RWA","Rwanda",2.04,"Sub-Saharan Africa",65,64.8,56.57
+"SAU","Saudi Arabia",7.05,"Middle East / North Africa",77,62.1,59.41
+"SDN","Sudan",2.93,NA,NA,NA,72.34
+"SEN","Senegal",2.68,"Sub-Saharan Africa",106,57.8,27.77
+"SGP","Singapore",8.08,"Asia-Pacific",2,89.4,45.87
+"SLB","Solomon Islands",2.42,"Asia-Pacific",159,47,NA
+"SLE","Sierra Leone",NA,"Sub-Saharan Africa",147,51.7,28.47
+"SLV","El Salvador",4.2,"South and Central America / Caribbean",62,65.7,23.66
+"SOM","Somalia",NA,NA,NA,NA,72.31
+"SRB","Serbia",6.45,"Europe",90,60,27.66
+"STP","S_o Tom_ and Pr—ncipe",NA,"Sub-Saharan Africa",136,53.3,NA
+"SUR","Suriname",4.99,"South and Central America / Caribbean",129,54.2,18.2
+"SVK","Slovakia",6.82,"Europe",50,67.2,11.66
+"SVN","Slovenia",7.23,"Europe",88,60.3,20.55
+"SWE","Sweden",8.67,"Europe",23,72.7,9.47
+"SWZ","Swaziland",NA,"Sub-Saharan Africa",91,59.9,47.28
+"SYC","Seychelles",4.96,"Sub-Saharan Africa",114,57.5,31.55
+"SYR","Syria",3.48,NA,NA,NA,77.29
+"TCD","Chad",1.17,"Sub-Saharan Africa",165,45.9,40.17
+"TGO","Togo",2.04,"Sub-Saharan Africa",138,53,28.5
+"THA","Thailand",5.36,"Asia-Pacific",75,62.4,40.07
+"TJK","Tajikistan",NA,"Asia-Pacific",140,52.7,36.19
+"TKM","Turkmenistan",NA,"Asia-Pacific",172,41.4,80.83
+"TLS","Timor-Leste",NA,"Asia-Pacific",167,45.5,32.63
+"TON","Tonga",3.82,"Asia-Pacific",95,59.3,23.37
+"TTO","Trinidad & Tobago",5.57,"South and Central America / Caribbean",67,64.1,22.39
+"TUN","Tunisia",4.73,"Middle East / North Africa",107,57.7,38.68
+"TUR","Turkey",5.58,"Europe",70,63.2,44.16
+"TWN","Taiwan ",NA,"Asia-Pacific",14,75.1,24.83
+"TZA","Tanzania",1.82,"Sub-Saharan Africa",109,57.5,28.09
+"UGA","Uganda",2.14,"Sub-Saharan Africa",92,59.7,31.65
+"UKR","Ukraine",5.23,"Europe",162,46.9,39.1
+"URY","Uruguay",6.7,"South and Central America / Caribbean",43,68.6,15.94
+"USA","United States",8.19,"North America",12,76.2,24.41
+"UZB","Uzbekistan",NA,"Asia-Pacific",160,47,61.14
+"VCT","St. Vincent and the Grenadines",5.69,"South and Central America / Caribbean",44,68,NA
+"VEN","Venezuela",5.48,"South and Central America / Caribbean",176,34.3,40.61
+"VNM","Viet Nam",4.28,"Asia-Pacific",148,51.7,72.63
+"VUT","Vanuatu",2.93,"Asia-Pacific",84,61.1,NA
+"WSM","Samoa",3.11,"Asia-Pacific",78,61.9,22.32
+"YEM","Yemen",NA,"Middle East / North Africa",133,53.7,66.36
+"ZAF","South Africa",4.9,"Sub-Saharan Africa",72,62.6,22.06
+"ZMB","Zambia",2.04,"Sub-Saharan Africa",100,58.7,34.35
+"ZWE","Zimbabwe",2.9,"Sub-Saharan Africa",175,37.6,39.19
